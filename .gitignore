@@ -1,0 +1,6 @@
+data/
+temp/
+temp_script/
+__pycache__
+main_api/weights/
+graphql/data/
